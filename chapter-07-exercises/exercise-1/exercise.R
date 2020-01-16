@@ -1,3 +1,4 @@
+# Diana Dai, week 2
 # Exercise 1: creating and operating on vectors
 
 # Create a vector `names` that contains your name and the names of 2 people 

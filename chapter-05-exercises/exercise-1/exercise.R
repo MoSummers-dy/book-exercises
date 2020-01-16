@@ -1,3 +1,4 @@
+# Diana Dai, week 2
 # Exercise 1: practice with basic R syntax
 
 # Create a variable `hometown` that stores the city in which you were born

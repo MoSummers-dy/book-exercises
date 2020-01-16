@@ -1,3 +1,4 @@
+# Diana Dai, week 2
 # Exercise 2: using built-in string functions
 
 # Create a variable `lyric` that contains the text "I like to eat apples and 
