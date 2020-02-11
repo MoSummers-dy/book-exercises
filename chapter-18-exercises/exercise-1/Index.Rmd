@@ -1,0 +1,19 @@
+---
+title: "Index.Rmd"
+author: "Diana Dai"
+date: "2/11/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+source("exercise.R")
+```
+
+## Summary
+
+Here is a summary about the movie from the New York Times.
+
+`r headline`
+
+`r summary`
